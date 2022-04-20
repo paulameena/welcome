@@ -1,0 +1,98 @@
+---
+title: "Paulameena Shultes (she/her/hers)"
+image: "paulameena_website_photo.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/paulameena-shultes"
+  - label: GitHub
+    url: "https://github.com/paulameena"
+  - label: DevPost
+    url: "https://devpost.com/pshultes/"
+  - label: Instagram
+    url: "https://www.instagram.com/paulameena.shultes/"
+  - label: Contact Me
+    url: mailto:pvs13@case.edu
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am an aspiring physician-scientist who is passionate about improving 
+accessibility of personalized medicine. My scientific interests range from computational
+genomics method development for rare genetic disorders to bioinformatics of public health
+data. I am currently exploring my clinical interests, which are constantly changing as I 
+get further into my medical education. At the moment, I am particularly interested in 
+exploring the fields of Clinical Genetics,Maternal-Fetal Medicine, Med-Peds, 
+and Cardiology/Pulmonology. 
+
+In my free time, I am an avid music-consumer; when I can do so in a Covid-conscious
+manner, you can find me at music festivals and concerts or just at home singing
+Broadway and Disney soundtracks to my cat, Ayanna. I identify as a board-game geek, a band nerd, choir
+geek, and overall weirdo (in a good way). 
+
+I do not have a Twitter at this time, but stay tuned as I am certain I will make an account soon.
+
+
+## Education
+
+
+**University of California, Berkeley** | Berkeley, CA
+
+B.S. Bioengineering, with Honors | August 2016 - August 2020
+
+B.A. Computer Science, with Distinction in Scholarship | August 2016 - August 2020
+
+**Case Western Reserve University -- Medical Scientist Training Program** | Cleveland, OH
+
+M.D. | July 2021 - May 2029 (expected); ongoing
+
+Ph.D. Systems Biology and Bioinformatics | July 2021 - May 2029 (expected); ongoing
+
+
+
+## Research
+
+
+**Fredrick Schumacher Lab** | CWRU Dept. of Population and Quantitative Health Sciences
+
+PhD Rotation, Fall 2021
+
+Project: Revisiting Horvath's Epigenetic Clock to Predict/Model Cancerous Tissues
+
+**Computational Genomics Research Group** | University of California, Berkeley 
+
+Undergraduate Research Apprentice, August 2017-December 2020
+
+Project: MasterQC - A Bioinformatics Quality Control Tool
+
+**Vandsburger Research Group** | University of California, Berkeley 
+
+Undergraduate Researcher, 2017-2018
+
+Project: Development of a Viral-Engineering Protocol for Drug Delivery Tracking in Patients with Heart Disease
+
+
+
+## Work Experience 
+
+
+**Thermo Fisher Scientific** | Carlsbad, CA 
+
+Bioinformatics R&D Intern, Summer 2019
+
+Project: Database Development for Gene Panel Primer Manufacturing QC in NGS R&D
+
+**Zeiss Meditec** | Pleasanton, CA 
+
+Systems Engineering Intern, Summer 2018
+
+Project: V&V Tool Development for Ophthalmic Medical Device Line
+
+
+
+## Publications: Coming Soon
+
+
+
+
