@@ -101,7 +101,7 @@ Project: V&V Tool Development for Ophthalmic Medical Device Line
 ## Publications
 
 *Paulameena V. Shultes*, Davis T. Weaver, Dagim S. Tadele, Rowan J. Barker-Clarke, Jacob G. Scott,
-Cell-cell fusion in cancer: The next cancer hallmark?, The International Journal of Biochemistry & Cell Biology, Volume 175, 2024,106649, ISSN 1357-2725, https://doi.org/10.1016/j.biocel.2024.106649.
+Cell-cell fusion in cancer: The next cancer hallmark?, The International Journal of Biochemistry & Cell Biology, Volume 175, 2024,106649, ISSN 1357-2725, doi: https://doi.org/10.1016/j.biocel.2024.106649 
 
 *Paulameena V. Shultes*, Dagim S. Tadele, Arda Durmaz, Davis T. Weaver, Rowan Barker-Clarke, Mina N. Dinh, Siqing Liu, Endalkachew A. Alemu, Simon Rayner, Jacob G. Scott, Cell-Cell Fusion in NSCLC Confers a Fitness Benefit Under Drug Selection. bioRxiv 2024.12.02.626399; doi: https://doi.org/10.1101/2024.12.02.626399
 
