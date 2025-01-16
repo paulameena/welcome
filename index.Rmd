@@ -20,28 +20,23 @@ output:
 
 I am an aspiring physician-scientist who is passionate about improving 
 accessibility of personalized medicine. My scientific interests range from computational
-genomics method development for rare genetic disorders to bioinformatics of public health
-data. I am currently exploring my clinical interests, which are constantly changing as I 
-get further into my medical education. At the moment, I am particularly interested in 
-exploring the fields of Clinical Genetics,Maternal-Fetal Medicine, Med-Peds, 
-and Cardiology/Pulmonology. 
+genomics method development to bioinformatics of public health data. I am currently exploring 
+the role of cell-cell fusion in cancer evolutionary trajectories and metastatic potential 
+(with a particular emphasis on the evolution of chemotherapeutic resistance).
+My clinical interest are constantly changing as I  get further into my medical education. 
+At the moment, I am particularly interested in exploring the fields of Clinical Genetics,
+Maternal-Fetal Medicine, Med-Peds,  and Ob/Gyn. 
 
 In my free time, I am an avid music-consumer; when I can do so in a Covid-conscious
 manner, you can find me at music festivals and concerts or just at home singing
 Broadway and Disney soundtracks to my cat, Ayanna. I identify as a board-game geek, a band nerd, choir
 geek, and overall weirdo (in a good way). 
 
-I do not have a Twitter at this time, but stay tuned as I am certain I will make an account soon.
+I am most accessible via email! I have socials (listed above) but I use them very sporadically.
 
 
 ## Education
 
-
-**University of California, Berkeley** | Berkeley, CA
-
-B.S. Bioengineering, with Honors | August 2016 - August 2020
-
-B.A. Computer Science, with Distinction in Scholarship | August 2016 - August 2020
 
 **Case Western Reserve University -- Medical Scientist Training Program** | Cleveland, OH
 
@@ -49,16 +44,28 @@ M.D. | July 2021 - May 2029 (expected); ongoing
 
 Ph.D. Systems Biology and Bioinformatics | July 2021 - May 2029 (expected); ongoing
 
+**University of California, Berkeley** | Berkeley, CA
+
+B.S. Bioengineering, with Honors | August 2016 - August 2020
+
+B.A. Computer Science, with Distinction in Scholarship | August 2016 - August 2020
+
 
 
 ## Research
+
+**Theory Division: Dr. Jacob G. Scott ** | Cleveland Clinic Translational Hematology and Oncology Research (THOR) Division
+
+PhD Research, Summer 2022- Present
+
+Project: Cell-cell fusion and the Evolution of Chemotherapeutic Resistance
 
 
 **Fredrick Schumacher Lab** | CWRU Dept. of Population and Quantitative Health Sciences
 
 PhD Rotation, Fall 2021
 
-Project: Revisiting Horvath's Epigenetic Clock to Predict/Model Cancerous Tissues
+Project: Revisiting Horvath's Epigenetic Clock to Predict and Model Cancerous Tissues
 
 **Computational Genomics Research Group** | University of California, Berkeley 
 
@@ -91,7 +98,15 @@ Project: V&V Tool Development for Ophthalmic Medical Device Line
 
 
 
-## Publications: Coming Soon
+## Publications
+
+*Paulameena V. Shultes*, Davis T. Weaver, Dagim S. Tadele, Rowan J. Barker-Clarke, Jacob G. Scott,
+Cell-cell fusion in cancer: The next cancer hallmark?, The International Journal of Biochemistry & Cell Biology, Volume 175, 2024,106649, ISSN 1357-2725, https://doi.org/10.1016/j.biocel.2024.106649.
+
+*Paulameena V. Shultes*, Dagim S. Tadele, Arda Durmaz, Davis T. Weaver, Rowan Barker-Clarke, Mina N. Dinh, Siqing Liu, Endalkachew A. Alemu, Simon Rayner, Jacob G. Scott, Cell-Cell Fusion in NSCLC Confers a Fitness Benefit Under Drug Selection. bioRxiv 2024.12.02.626399; doi: https://doi.org/10.1101/2024.12.02.626399
+
+
+
 
 
 
