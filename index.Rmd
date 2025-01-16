@@ -8,8 +8,8 @@ links:
     url: "https://github.com/paulameena"
   - label: DevPost
     url: "https://devpost.com/pshultes/"
-  - label: Instagram
-    url: "https://www.instagram.com/paulameena.shultes/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=-hlT1kYAAAAJ&hl=en/"
   - label: Contact Me
     url: mailto:pvs13@case.edu
 output:
@@ -32,7 +32,7 @@ manner, you can find me at music festivals and concerts or just at home singing
 Broadway and Disney soundtracks to my cat, Ayanna. I identify as a board-game geek, a band nerd, choir
 geek, and overall weirdo (in a good way). 
 
-I am most accessible via email! I have socials (listed above) but I use them very sporadically.
+I am most accessible via email! I have socials but I use them very sporadically.
 
 
 ## Education
